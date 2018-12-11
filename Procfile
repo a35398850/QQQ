@@ -1,1 +1,1 @@
-web: node Start.bat
+web: node app.js
